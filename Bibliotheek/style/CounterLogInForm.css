@@ -1,0 +1,52 @@
+﻿div {
+    width: 600px;
+    padding: 25px;
+    margin: 25px;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: auto;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #002c5a;
+    text-align: center;
+}
+
+label {
+    color: #002c5a;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #00b4eb;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+}
+
+    /* Add a hover effect for buttons */
+    button:hover {
+        opacity: 0.8;
+    }
+
+/* Add padding to containers */
+.container {
+    padding: 10px;
+    margin: auto;
+}
+
+.errorContainer {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}

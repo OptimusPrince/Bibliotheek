@@ -1,0 +1,29 @@
+﻿#lblUserDetails {
+    color: #002c5a;
+}
+
+#btnLogout {
+    background-color: #00b4eb;
+    color: white;
+    padding: 14px 20px;
+    margin: auto;
+    border: none;
+    cursor: pointer;
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+
+    /* Add a hover effect for buttons */
+    #btnLogout:hover {
+        opacity: 0.8;
+    }
+
+/* Add padding to containers */
+.container {
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+
